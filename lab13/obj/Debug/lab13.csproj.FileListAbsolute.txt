@@ -1,0 +1,10 @@
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\bin\Debug\lab13.exe.config
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\bin\Debug\lab13.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\bin\Debug\lab13.pdb
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\obj\Debug\lab13.csprojAssemblyReference.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\obj\Debug\lab13.Form1.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\obj\Debug\lab13.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\obj\Debug\lab13.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\obj\Debug\lab13.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab13\lab13\lab13\obj\Debug\lab13.pdb
